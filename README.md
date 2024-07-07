@@ -12,6 +12,7 @@ In this web based application:
 The contents will be saved in local storage even after refreshing the web application.
 
 Technology Stack:
+
 The Concise Notes Taking Application is built using the following technologies:
 
 HTML and CSS: For structuring the application's layout and styling elements to ensure a visually appealing and user-friendly interface.
