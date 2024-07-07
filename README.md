@@ -2,6 +2,7 @@ CONCISE-NOTES-TAKING-APPLICATION
 ![image](https://github.com/harshithaendreddy/Concise-Notes-Taking-Application/assets/143935928/5e1c3ecb-a7e9-4ab8-81e6-2f6f7616420b)
 
 In this web based application:
+
 1.We can add as many note files as possible
 ![image](https://github.com/harshithaendreddy/Concise-Notes-Taking-Application/assets/143935928/941dfb18-865a-45ea-ba63-44f8715efe68)
 2.Delete them by clicking on the bin icon
@@ -9,6 +10,7 @@ In this web based application:
 3.Save the contents of the notes by clicking on the save button
 ![image](https://github.com/harshithaendreddy/Concise-Notes-Taking-Application/assets/143935928/9a37e90d-7875-4984-a369-de30a5eb06e2)
 The contents will be saved in local storage even after refreshing the web application.
+
 Technology Stack:
 The Concise Notes Taking Application is built using the following technologies:
 
