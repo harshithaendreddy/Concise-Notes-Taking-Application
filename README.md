@@ -21,3 +21,6 @@ JavaScript: Provides dynamic behavior and interactivity, handling user actions s
 LocalStorage API: Utilized for storing notes locally within the user's browser, ensuring data persistence and seamless access across sessions.
 
 Responsive Design Principles: Applied to ensure the application functions well on various devices, from desktop computers to tablets and smartphones.
+
+See a video demonstration of the application here: [Concise-Notes-Taking-Application](https://drive.google.com/file/d/10LLGQw7KPU1XlopxIbeTYX4VqIh1FhVW/view?usp=sharing)
+
