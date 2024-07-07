@@ -1,4 +1,4 @@
-CONCISE-NOTES-TAKING-APPLICATION
+**CONCISE-NOTES-TAKING-APPLICATION**
 ![image](https://github.com/harshithaendreddy/Concise-Notes-Taking-Application/assets/143935928/5e1c3ecb-a7e9-4ab8-81e6-2f6f7616420b)
 
 In this web based application:
@@ -11,7 +11,7 @@ In this web based application:
 ![image](https://github.com/harshithaendreddy/Concise-Notes-Taking-Application/assets/143935928/9a37e90d-7875-4984-a369-de30a5eb06e2)
 The contents will be saved in local storage even after refreshing the web application.
 
-Technology Stack:
+**Technology Stack:**
 
 The Concise Notes Taking Application is built using the following technologies:
 
